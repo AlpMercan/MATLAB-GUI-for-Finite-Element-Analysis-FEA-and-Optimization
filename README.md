@@ -12,4 +12,5 @@ The flexibility to import bridge coordinates from Excel Data Sheet for a more re
 
 
 youtube link for app explanation: https://www.youtube.com/watch?v=fgZ7bZ0zp6w&t=32s&ab_channel=FEM-M%26MI
-![Uploading adding node.png…]()
+<img width="1273" alt="adding node" src="https://github.com/AlpMercan/MATLAB-GUI-for-Finite-Element-Analysis-FEA-and-Optimization/assets/112685013/511b3267-1a3f-4a9d-9797-faba6b8068a2">
+
